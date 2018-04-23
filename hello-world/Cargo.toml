@@ -1,0 +1,7 @@
+[package]
+name = "hello-world"
+version = "0.1.0"
+authors = ["dave-roo <35938373+dave-roo@users.noreply.github.com>"]
+
+[dependencies]
+tokio = "0.1"
